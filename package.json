@@ -1,0 +1,12 @@
+{
+    "dependencies":  {
+                         "typescript":  "^5.3.3"
+                     },
+    "name":  "ai16zdao.com",
+    "version":  "1.0.0",
+    "type":  "module",
+    "scripts":  {
+                    "dev":  "tsc -w",
+                    "build":  "tsc"
+                }
+}

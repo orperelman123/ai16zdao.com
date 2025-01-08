@@ -1,0 +1,11 @@
+{
+    "include":  [
+                    "src/**/*"
+                ],
+    "compilerOptions":  {
+                            "module":  "NodeNext",
+                            "strict":  true,
+                            "target":  "ES2022",
+                            "outDir":  "dist"
+                        }
+}
